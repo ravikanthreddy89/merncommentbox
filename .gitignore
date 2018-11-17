@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+.idea/
 # dependencies
 /node_modules
 /.pnp
@@ -24,4 +25,3 @@ yarn-error.log*
 
 
 # Ignore webstorm files
-.idea/**
